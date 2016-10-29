@@ -1,0 +1,10 @@
+node_modules
+.DS_Store
+*.log
+src/common/config.js
+src/schemas/*
+.idea
+public/upload/*
+*.sh
+.idea
+test.js
